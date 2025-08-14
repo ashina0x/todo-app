@@ -84,7 +84,7 @@ make
 | 🐧 Linux  | [Download todo-linux](https://github.com/peaceful-wolf/todo-app/releases/latest) |
 | 🪟 Windows | [Download todo.exe](https://github.com/peaceful-wolf/todo-app/releases/latest) |
 
-## ## 💡 Suggest an Idea
+## 💡 Suggest an Idea
 
 - Have an idea or feature you'd like to see? Feel free to [open an issue](https://github.com/peaceful-wolf/todo-app/issues) with your suggestion or improvement!
 
