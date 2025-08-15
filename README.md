@@ -88,3 +88,7 @@ make
 
 - Have an idea or feature you'd like to see? Feel free to [open an issue](https://github.com/peaceful-wolf/todo-app/issues) with your suggestion or improvement!
 
+## 👤 Author
+
+- GitHub: [peaceful-wolf](https://github.com/peaceful-wolf)
+- Project maintained by [peaceful-wolf](https://github.com/peaceful-wolf)
