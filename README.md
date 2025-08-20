@@ -69,7 +69,7 @@ Quickly remove tasks you no longer need.
 Make sure you have **GCC** and **Make** installed.
 
 ```bash
-git clone https://github.com/peaceful-wolf/todo-app.git
+git clone https://github.com/0xneko-kun/todo-app.git
 cd todo-app
 make
 ./todo
