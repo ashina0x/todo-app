@@ -37,7 +37,7 @@ Create, view, complete, and delete tasks — all from your terminal.
 Include title, description, deadline, and priority.
 
 <img src="assets/add-task.png" width="500" alt="Add Task"/>
-g
+
 ---
 
 #### 📋 View All Tasks
