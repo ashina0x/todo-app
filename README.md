@@ -5,9 +5,9 @@ Create, view, complete, and delete tasks — all from your terminal.
 
 ---
 
-![GitHub Repo stars](https://img.shields.io/github/stars/peaceful-wolf/todo-app?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/peaceful-wolf/todo-app?style=flat-square)
-![GitHub](https://img.shields.io/github/license/peaceful-wolf/todo-app?style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/ashina0x/todo-app?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/ashina0x/todo-app?style=flat-square)
+![GitHub](https://img.shields.io/github/license/ashina0x/todo-app?style=flat-square)
 ![Build](https://img.shields.io/badge/build-passing-brightgreen?style=flat-square)
 
 ---
@@ -69,7 +69,7 @@ Quickly remove tasks you no longer need.
 Make sure you have **GCC** and **Make** installed.
 
 ```bash
-git clone https://github.com/0xneko-kun/todo-app.git
+git clone https://github.com/ashina0x/todo-app.git
 cd todo-app
 make
 ./todo
@@ -81,8 +81,8 @@ make
 
 | Platform | Binary |
 |----------|--------|
-| 🐧 Linux  | [Download todo-linux](https://github.com/peaceful-wolf/todo-app/releases/latest) |
-| 🪟 Windows | [Download todo.exe](https://github.com/peaceful-wolf/todo-app/releases/latest) |
+| 🐧 Linux  | [Download todo-linux](https://github.com/ashina0x/todo-app/releases/latest) |
+| 🪟 Windows | [Download todo.exe](https://github.com/ashina0x/todo-app/releases/latest) |
 
 ## 💡 Suggest an Idea
 
